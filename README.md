@@ -71,6 +71,7 @@ My approach is driven by **innovation, collaboration, and a strong commitment to
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0A0A0A?style=for-the-badge&logo=pattern&logoColor=white)
 ![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-FF9800?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-Test%20Driven%20Development-9C27B0?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-3F51B5?style=for-the-badge&logo=trello&logoColor=white)
 ![Software Architecture](https://img.shields.io/badge/Software%20Architecture-5D4037?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
