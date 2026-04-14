@@ -97,7 +97,7 @@ My approach is driven by **innovation, collaboration, and a strong commitment to
 
 ## 📫 Contact Me
 
-- 📧 perexwi07@gmail.com
+- 📧 arieldilone08@gmail.com
 - 📞 [WhatsApp](https://wa.me/18296209352)
 - ✈️ [Telegram](https://t.me/perexwi)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ariel-dilone)
