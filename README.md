@@ -32,6 +32,7 @@ My approach is driven by **innovation, collaboration, and a strong commitment to
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Adonisjs](https://img.shields.io/badge/Adonis.js-4f39f6?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
